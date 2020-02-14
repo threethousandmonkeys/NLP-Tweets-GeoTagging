@@ -6,5 +6,5 @@ Applied machine learning systems and classifiers based on the corresponding data
 
 Evaluated and performed error analysis of each model, got the top **5%** ranking on Kaggle
 
-Conducted a **1,500**-word research report with charts and graphs, received an **H1** score from the processor
+Conducted a **1,500**-word research report with charts and graphs, received an **H1** score from the Professor
 
